@@ -1,0 +1,20 @@
+.introduce {
+    width: 500px;
+    height: 200px;
+}
+.main {
+    position: relative;
+    width: 60%;
+    max-width: 900px;     margin: 30px auto; /* Margin ayarlandı ve otomatik hizalandı */
+    padding: 2%; 
+    border-radius: 60px;
+    background-color: yellowgreen;
+    font: bold;
+    box-sizing: border-box;
+    float: left;
+}
+.name {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;    
+    font-weight: bold;
+}
